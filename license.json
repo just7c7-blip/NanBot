@@ -19,8 +19,8 @@
   },
   "VIP001": {
     "type": "month",
-    "device_id": "",
-    "start": "",
-    "expires": ""
+    "device_id": "ABC123XYZ789",
+    "start": "2026-06-01T10:30:00",
+    "expires": "2026-07-01T10:30:00"
   }
 }
