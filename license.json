@@ -1,26 +1,26 @@
 {
-  "DAY001": {
-    "type": "day",
-    "device_id": "",
-    "start": "",
-    "expires": ""
-  },
-  "WEEK001": {
-    "type": "week",
-    "device_id": "",
-    "start": "",
-    "expires": ""
-  },
-  "MONTH001": {
-    "type": "month",
-    "device_id": "",
-    "start": "",
-    "expires": ""
-  },
-  "VIP001": {
-    "type": "month",
-    "device_id": "ABC123XYZ789",
-    "start": "2026-06-01T10:30:00",
-    "expires": "2026-07-01T10:30:00"
-  }
+    "DAY001": {
+        "type": "day",
+        "device_id": "a4c1262b33dc04de200063d47cf68f48981be22f200e05f1c1bf0a2963a5aa67",
+        "start": "2026-06-29T14:49:33.106245",
+        "expires": "2026-06-30T14:49:33.106245"
+    },
+    "WEEK001": {
+        "type": "week",
+        "device_id": "",
+        "start": "",
+        "expires": ""
+    },
+    "MONTH001": {
+        "type": "month",
+        "device_id": "",
+        "start": "",
+        "expires": ""
+    },
+    "VIP001": {
+        "type": "month",
+        "device_id": "ABC123XYZ789",
+        "start": "2026-06-01T10:30:00",
+        "expires": "2026-07-01T10:30:00"
+    }
 }
