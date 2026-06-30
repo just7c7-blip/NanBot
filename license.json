@@ -1,171 +1,242 @@
 {
-    "DAY001": {
-        "type": "day",
-        "device_id": "a4c1262b33dc04de200063d47cf68f48981be22f200e05f1c1bf0a2963a5aa67",
-        "start": "2026-06-29T14:49:33.106245",
-        "expires": "2026-06-29T14:49:35.106245"
-    },
-    
-    "DAY007": {
+    "DAY-8X7K-3M9P": {
         "type": "day",
         "device_id": "",
         "start": "",
         "expires": ""
     },
-    
-    "DAY001": {
+    "DAY-4N2W-7Q5R": {
         "type": "day",
         "device_id": "",
         "start": "",
         "expires": ""
     },
-    
-    "DAY001": {
+    "DAY-9T6Y-1B3C": {
         "type": "day",
         "device_id": "",
         "start": "",
         "expires": ""
     },
-    
-    "DAY001": {
+    "DAY-5H8J-2D4F": {
         "type": "day",
         "device_id": "",
         "start": "",
         "expires": ""
     },
-    
-    "DAY001": {
+    "DAY-7K1M-9P3R": {
         "type": "day",
         "device_id": "",
         "start": "",
         "expires": ""
     },
-    
-    "DAY001": {
+    "DAY-2X4C-6V8B": {
         "type": "day",
         "device_id": "",
         "start": "",
         "expires": ""
     },
-
-    "WEEK001": {
+    "DAY-9Z5A-1N7M": {
+        "type": "day",
+        "device_id": "",
+        "start": "",
+        "expires": ""
+    },
+    "DAY-3Q6W-8E2R": {
+        "type": "day",
+        "device_id": "",
+        "start": "",
+        "expires": ""
+    },
+    "DAY-4T7Y-1U5I": {
+        "type": "day",
+        "device_id": "",
+        "start": "",
+        "expires": ""
+    },
+    "DAY-8O2P-6L9K": {
+        "type": "day",
+        "device_id": "",
+        "start": "",
+        "expires": ""
+    },
+    "WEEK-3F7G-9H2J": {
         "type": "week",
         "device_id": "",
         "start": "",
         "expires": ""
     },
-    
-    "WEEK001": {
+    "WEEK-5K8M-2N4P": {
         "type": "week",
         "device_id": "",
         "start": "",
         "expires": ""
     },
-    
-    "WEEK001": {
+    "WEEK-7Q1T-9R3W": {
         "type": "week",
         "device_id": "",
         "start": "",
         "expires": ""
     },
-    
-    "WEEK001": {
+    "WEEK-2Y5U-8I7O": {
         "type": "week",
         "device_id": "",
         "start": "",
         "expires": ""
     },
-    
-    "WEEK001": {
+    "WEEK-4A6D-9F1G": {
         "type": "week",
         "device_id": "",
         "start": "",
         "expires": ""
     },
-    
-    "WEEK001": {
+    "WEEK-8H3J-7K5L": {
         "type": "week",
         "device_id": "",
         "start": "",
         "expires": ""
     },
-    
-    "WEEK001": {
+    "WEEK-1Z4X-6C2V": {
         "type": "week",
         "device_id": "",
         "start": "",
         "expires": ""
     },
-    
-    "WEEK001": {
+    "WEEK-9B5N-3M8Q": {
         "type": "week",
         "device_id": "",
         "start": "",
         "expires": ""
     },
-    
-    "WEEK001": {
+    "WEEK-6R2T-7Y4U": {
         "type": "week",
         "device_id": "",
         "start": "",
         "expires": ""
     },
-    
-    "WEEK001": {
+    "WEEK-1E3P-5O9I": {
         "type": "week",
         "device_id": "",
         "start": "",
         "expires": ""
     },
-    "MONTH001": {
+    "MONTH-4X7Q-2K9P": {
         "type": "month",
         "device_id": "",
         "start": "",
         "expires": ""
     },
-    
-    },
-    "MONTH001": {
+    "MONTH-8R3W-6Y5T": {
         "type": "month",
         "device_id": "",
         "start": "",
         "expires": ""
     },
-    "MONTH001": {
-        "type": "month",
-        "device_id": "",
-        "start": "",
-        "expires": ""
-
-    },
-    "MONTH001": {
+    "MONTH-1N9B-4M7C": {
         "type": "month",
         "device_id": "",
         "start": "",
         "expires": ""
     },
-    "MONTH001": {
+    "MONTH-5V2F-8H3J": {
         "type": "month",
         "device_id": "",
         "start": "",
         "expires": ""
     },
-    "MONTH001": {
+    "MONTH-7L1K-9P4O": {
         "type": "month",
         "device_id": "",
         "start": "",
         "expires": ""
     },
-    "MONTH001": {
+    "MONTH-3G6U-2D8W": {
         "type": "month",
         "device_id": "",
         "start": "",
         "expires": ""
     },
-    "VIP001": {
+    "MONTH-9A5R-1T7E": {
         "type": "month",
-        "device_id": "ABC123XYZ789",
-        "start": "2026-06-01T10:30:00",
-        "expires": "2026-07-01T10:30:00"
+        "device_id": "",
+        "start": "",
+        "expires": ""
+    },
+    "MONTH-6B2Y-4I8M": {
+        "type": "month",
+        "device_id": "",
+        "start": "",
+        "expires": ""
+    },
+    "MONTH-2O7P-5K9L": {
+        "type": "month",
+        "device_id": "",
+        "start": "",
+        "expires": ""
+    },
+    "MONTH-8C4V-3X6N": {
+        "type": "month",
+        "device_id": "",
+        "start": "",
+        "expires": ""
+    },
+    "VIP-7D9F-3M2P": {
+        "type": "month",
+        "device_id": "",
+        "start": "",
+        "expires": ""
+    },
+    "VIP-5K8R-1N4T": {
+        "type": "month",
+        "device_id": "",
+        "start": "",
+        "expires": ""
+    },
+    "VIP-9Q2Y-6B3W": {
+        "type": "month",
+        "device_id": "",
+        "start": "",
+        "expires": ""
+    },
+    "VIP-4G7H-8L9M": {
+        "type": "month",
+        "device_id": "",
+        "start": "",
+        "expires": ""
+    },
+    "VIP-1X5Z-3C7V": {
+        "type": "month",
+        "device_id": "",
+        "start": "",
+        "expires": ""
+    },
+    "VIP-6U2O-9P4I": {
+        "type": "month",
+        "device_id": "",
+        "start": "",
+        "expires": ""
+    },
+    "VIP-8E1R-5T7Y": {
+        "type": "month",
+        "device_id": "",
+        "start": "",
+        "expires": ""
+    },
+    "VIP-3N6Q-2K9J": {
+        "type": "month",
+        "device_id": "",
+        "start": "",
+        "expires": ""
+    },
+    "VIP-7A4C-1M8F": {
+        "type": "month",
+        "device_id": "",
+        "start": "",
+        "expires": ""
+    },
+    "VIP-5B9L-4D6P": {
+        "type": "month",
+        "device_id": "",
+        "start": "",
+        "expires": ""
     }
 }
