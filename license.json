@@ -601,9 +601,9 @@
     },
     "WEEK-W4KK-K3DN-5FRP": {
         "type": "week",
-        "device_id": "",
-        "start": "",
-        "expires": ""
+        "device_id": "86de06c23e6c275d7cc56d1f9787663f399bfea4fa03b3382b516da6b17dcc50",
+        "start": "2026-07-06T04:23:02+03:00",
+        "expires": "2026-07-13T04:23:02+03:00"
     },
     "WEEK-WXFN-QNUJ-LK9T": {
         "type": "week",
