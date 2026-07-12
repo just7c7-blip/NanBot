@@ -7183,9 +7183,9 @@
     },
     "MONTH-QV7T-CFX8-GMP0": {
         "type": "month",
-        "device_id": "",
-        "start": "",
-        "expires": ""
+        "device_id": "86de06c23e6c275d7cc56d1f9787663f399bfea4fa03b3382b516da6b17dcc50",
+        "start": "2026-07-13T02:59:51+03:00",
+        "expires": "2026-08-12T02:59:51+03:00"
     },
     "MONTH-H02D-RQW1-650A": {
         "type": "month",
