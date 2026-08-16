@@ -25,9 +25,9 @@
     },
     "DAY-F9BN-TXDT-KE0C": {
         "type": "day",
-        "device_id": "",
-        "start": "",
-        "expires": ""
+        "device_id": "5eb23f4bcb679816b085d5cea562ca044071160046ed422b5ef9fc1c943e0aa3",
+        "start": "2026-08-16T16:16:08+03:00",
+        "expires": "2026-08-17T16:16:08+03:00"
     },
     "DAY-192P-EVD5-VKS3": {
         "type": "day",
