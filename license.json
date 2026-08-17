@@ -31,9 +31,9 @@
     },
     "DAY-192P-EVD5-VKS3": {
         "type": "day",
-        "device_id": "",
-        "start": "",
-        "expires": ""
+        "device_id": "5eb23f4bcb679816b085d5cea562ca044071160046ed422b5ef9fc1c943e0aa3",
+        "start": "2026-08-17T17:01:06+03:00",
+        "expires": "2026-08-18T17:01:06+03:00"
     },
     "DAY-5NCD-AXHP-APD1": {
         "type": "day",
