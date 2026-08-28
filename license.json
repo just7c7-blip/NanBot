@@ -7178,8 +7178,8 @@
     "MONTH-DQJF-R4LI-06NK": {
         "type": "month",
         "device_id": "",
-        "start": "2026-07-25T22:00:45+03:00",
-        "expires": "2027-10-24T22:00:45+03:00"
+        "start": "",
+        "expires": ""
     },
     "MONTH-QV7T-CFX8-GMP0": {
         "type": "month",
