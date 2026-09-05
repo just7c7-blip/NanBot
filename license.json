@@ -7171,9 +7171,9 @@
     },
     "MONTH-I8GT-N69W-2NC4": {
         "type": "month",
-        "device_id": "",
-        "start": "",
-        "expires": ""
+        "device_id": "ffaacab7770fbd2e0927e1f43f4d8dfb6fbef74bf402f6734add1a5ba6185102",
+        "start": "2026-09-05T14:42:05+03:00",
+        "expires": "2026-10-05T14:42:05+03:00"
     },
     "MONTH-DQJF-R4LI-06NK": {
         "type": "month",
