@@ -73,9 +73,9 @@
     },
     "DAY-Y0W0-21ZW-9RX3": {
         "type": "day",
-        "device_id": "",
-        "start": "",
-        "expires": ""
+        "device_id": "f3f2aa596cfed3531159c21cc7f2d0b03c2db01ca7bd243d9c80b8767599611c",
+        "start": "2026-09-11T06:51:35",
+        "expires": "2026-09-12T06:51:35"
     },
     "DAY-N22N-MO6W-5HYK": {
         "type": "day",
