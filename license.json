@@ -7021,9 +7021,9 @@
     },
     "MONTH-V0XU-3TQK-I4U7": {
         "type": "month",
-        "device_id": "",
-        "start": "",
-        "expires": ""
+        "device_id": "b874b1363528aca94780387d0edc4cce2ec9096345134144883b3bba8b6116d1",
+        "start": "2026-09-14T18:59:59+03:00",
+        "expires": "2026-10-14T18:59:59+03:00"
     },
     "MONTH-ZJEI-NEU5-R0RL": {
         "type": "month",
