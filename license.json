@@ -7165,9 +7165,9 @@
     },
     "MONTH-ED6R-CGC2-HHG3": {
         "type": "month",
-        "device_id": "",
-        "start": "",
-        "expires": ""
+        "device_id": "b26e487118e0231817558b57e0a196c9a713728aaecd673a0e6278c98f83c366",
+        "start": "2026-10-09T19:06:32+03:00",
+        "expires": "2026-11-08T19:06:32+03:00"
     },
     "MONTH-I8GT-N69W-2NC4": {
         "type": "month",
