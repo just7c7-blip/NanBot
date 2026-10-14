@@ -7159,9 +7159,9 @@
     },
     "MONTH-BM01-VA21-XDEV": {
         "type": "month",
-        "device_id": "",
-        "start": "",
-        "expires": ""
+        "device_id": "86de06c23e6c275d7cc56d1f9787663f399bfea4fa03b3382b516da6b17dcc50",
+        "start": "2026-10-14T08:57:57+03:00",
+        "expires": "2026-11-13T08:57:57+03:00"
     },
     "MONTH-ED6R-CGC2-HHG3": {
         "type": "month",
