@@ -61,9 +61,9 @@
     },
     "DAY": {
         "type": "day",
-        "device_id": "",
-        "start": "",
-        "expires": ""
+        "device_id": "9cdd067c9008a1835877b4b7a0b0b11bcf7f8aa544c4c002e200705f36dbb335",
+        "start": "2026-10-14T21:05:06",
+        "expires": "2026-10-15T21:05:06"
     },
     "DAY-5EJI-QU0G-1FQ6": {
         "type": "day",
