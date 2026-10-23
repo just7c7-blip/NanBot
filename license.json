@@ -7123,9 +7123,9 @@
     },
     "MONTH-8TXZ-TZK5-QHSA": {
         "type": "month",
-        "device_id": "",
-        "start": "",
-        "expires": ""
+        "device_id": "bd235a4a2562493dbe35eb83b9471625d4041b497d56404eb6704738573ef63f",
+        "start": "2026-10-23T23:29:15+03:00",
+        "expires": "2026-11-22T23:29:15+03:00"
     },
     "MONTH-KHNI-S6AE-7FOY": {
         "type": "month",
