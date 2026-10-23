@@ -2125,9 +2125,9 @@
     },
     "MONTH-V3A5-V6HW-HO8R": {
         "type": "month",
-        "device_id": "",
-        "start": "",
-        "expires": ""
+        "device_id": "ffaacab7770fbd2e0927e1f43f4d8dfb6fbef74bf402f6734add1a5ba6185102",
+        "start": "2026-10-23T21:53:41+03:00",
+        "expires": "2026-11-22T21:53:41+03:00"
     },
     "MONTH-SQ1B-3GZC-Z0NR": {
         "type": "month",
