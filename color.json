@@ -2,7 +2,7 @@
   "version": 1,
   "updated": "2025-01-15",
   "colors": {
-    "box": { 
+    "box": {
       "primary": "#7e5e3d",
       "refs": [
         [11, 0, "#81603e"],
