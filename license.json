@@ -7109,11 +7109,11 @@
         "start": "",
         "expires": ""
     },
-    "MONTH-XJKP-P346-6ALG": {
+    "MONTH-XJK3-P346-6A21": {
         "type": "month",
-        "device_id": "bd235a4a2562493dbe35eb83b9471625d4041b497d56404eb6704738573ef63f",
-        "start": "2026-10-23T22:44:14+03:00",
-        "expires": "2026-11-22T22:44:14+03:00"
+        "device_id": "",
+        "start": "",
+        "expires": ""
     },
     "MONTH-BWZ5-13YQ-LM9H": {
         "type": "month",
@@ -7121,11 +7121,11 @@
         "start": "",
         "expires": ""
     },
-    "MONTH-8TXZ-TZK5-QHSA": {
+    "MONTH-8TX2-TZK0-QHSA": {
         "type": "month",
-        "device_id": "bd235a4a2562493dbe35eb83b9471625d4041b497d56404eb6704738573ef63f",
-        "start": "2026-10-23T23:29:15+03:00",
-        "expires": "2026-11-22T23:29:15+03:00"
+            "device_id": "",
+        "start": "",
+        "expires": ""
     },
     "MONTH-KHNI-S6AE-7FOY": {
         "type": "month",
