@@ -3,13 +3,13 @@
         "type": "day",
         "device_id": "5f849890e6cbfb569e0e8a2bfba758dfd1d8b5f7d47e044feb3a0f67c281d14c",
         "start": "2026-10-02T09:41:51+03:00",
-        "expires": "2030-10-03T09:41:51+03:00" 
+        "expires": "2030-10-03T09:41:51+03:00"
     },
     "MONTH-DQJF-R4LI-06NK": {
         "type": "month",
-        "device_id": "",
-        "start": "",
-        "expires": ""
+        "device_id": "eaea74ac2ab506107b4a50486f616a66ce2ce5944511ba65ed499432519dd05c",
+        "start": "2026-11-16T16:41:01+03:00",
+        "expires": "2026-12-16T16:41:01+03:00"
     },
     "MONTH-1X7O-53AS-ZACI": {
         "type": "month",
@@ -29,7 +29,7 @@
         "start": "",
         "expires": ""
     },
-     "MONTH-XV50-18FM-QWZA": {
+    "MONTH-XV50-18FM-QWZA": {
         "type": "month",
         "device_id": "a4c1262b33dc04de200063d47cf68f48981be22f200e05f1c1bf0a2963a5aa67",
         "start": "2026-07-04T16:02:30+03:00",
