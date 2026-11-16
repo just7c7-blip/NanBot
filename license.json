@@ -25,9 +25,9 @@
     },
     "FSA8": {
         "type": "month",
-        "device_id": "",
-        "start": "",
-        "expires": ""
+        "device_id": "7700a70e8163804eae92596501cd910ef0420865c52bb4ec32436d86743bde37",
+        "start": "2026-11-16T13:50:35",
+        "expires": "2026-12-16T13:50:35"
     },
     "MONTH-XV50-18FM-QWZA": {
         "type": "month",
