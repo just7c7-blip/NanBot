@@ -10,13 +10,12 @@
         "device_id": "eaea74ac2ab506107b4a50486f616a66ce2ce5944511ba65ed499432519dd05c",
         "start": "2026-07-25T22:00:45+03:00",
         "expires": "2027-10-24T22:00:45+03:00"
-
     },
     "MONTH-1X7O-53AS-ZACI": {
         "type": "month",
-        "device_id": "",
-        "start": "",
-        "expires": ""
+        "device_id": "b170b69940396678c331bb6f796da4290c67947373cb1f70ea730dcf96593c95",
+        "start": "2026-11-16T13:42:06",
+        "expires": "2026-12-16T13:42:06"
     },
     "MONTH-Y95B-TQMN-0A55": {
         "type": "month",
