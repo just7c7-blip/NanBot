@@ -29,6 +29,12 @@
         "start": "2026-07-25T22:00:45+03:00",
         "expires": "2027-10-24T22:00:45+03:00"
     },
+    "F888": {
+        "type": "month",
+        "device_id": "",
+        "start": "",
+        "expires": ""
+    },
     "MONTH-XV50-18FM-QWZA": {
         "type": "month",
         "device_id": "a4c1262b33dc04de200063d47cf68f48981be22f200e05f1c1bf0a2963a5aa67",
