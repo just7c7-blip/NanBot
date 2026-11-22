@@ -19,9 +19,9 @@
     },
     "TQ01133": {
         "type": "month",
-        "device_id": "",
-        "start": "",
-        "expires": ""
+        "device_id": "ffaacab7770fbd2e0927e1f43f4d8dfb6fbef74bf402f6734add1a5ba6185102",
+        "start": "2026-11-22T20:03:24+03:00",
+        "expires": "2026-12-22T20:03:24+03:00"
     },
     "Y95B": {
         "type": "month",
