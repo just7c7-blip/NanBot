@@ -11,6 +11,12 @@
         "start": "2026-07-25T22:00:45+03:00",
         "expires": "2027-10-24T22:00:45+03:00"
     },
+    "SQRT": {
+        "type": "month",
+        "device_id": "",
+        "start": "",
+        "expires": ""
+    },
     "MONTH-1X7O-53AS-ZACI": {
         "type": "month",
         "device_id": "b170b69940396678c331bb6f796da4290c67947373cb1f70ea730dcf96593c95",
